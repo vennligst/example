@@ -1,4 +1,4 @@
-# Welcome to my index of formal and informal assignments for my DATA 100 - Wicked Problems
+# Welcome to my Index of formal and informal assignments for my DATA 100 - Wicked Problems
 
 ## Informal Responses
 
